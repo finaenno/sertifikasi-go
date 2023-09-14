@@ -1,10 +1,10 @@
 package main
 
 import (
-	"github.com/finaenno/sertifikasi-go.git/controllers/authenticationController"
-	"github.com/finaenno/sertifikasi-go.git/controllers/penawaranSertifikasiController"
-	"github.com/finaenno/sertifikasi-go.git/middlewares"
-	"github.com/finaenno/sertifikasi-go.git/models"
+	"github.com/finaenno/sertifikasi-go/controllers/penawaranSertifikasiController"
+	"github.com/finaenno/sertifikasi-go/middlewares"
+	"github.com/finaenno/sertifikasi-go/models"
+	"sgithub.com/finaenno/sertifikasi-go/controllers/authenticationController"
 
 	"github.com/gin-gonic/gin"
 )

@@ -3,8 +3,8 @@ package controllers
 import (
 	"log"
 
-	"github.com/finaenno/sertifikasi-go.git/auth"
-	"github.com/finaenno/sertifikasi-go.git/models"
+	"github.com/finaenno/sertifikasi-go/auth"
+	"github.com/finaenno/sertifikasi-go/models"
 
 	"github.com/gin-gonic/gin"
 	"gorm.io/gorm"

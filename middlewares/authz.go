@@ -3,7 +3,7 @@ package middlewares
 import (
 	"strings"
 
-	"github.com/finaenno/sertifikasi-go.git/auth"
+	"github.com/finaenno/sertifikasi-go/auth"
 
 	"github.com/gin-gonic/gin"
 )
